@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/django-commons/django-simple-menu/commit/d92583554032574a0ac14527bab5f693e573ceb5",
       "git:hexsha": "d92583554032574a0ac14527bab5f693e573ceb5",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/django-commons/django-simple-menu/commit/b374d3dd801a5d0746ce28e8c182a64ce05917d7",
