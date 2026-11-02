@@ -1,0 +1,11 @@
+{
+  "org": "django-commons",
+  "repo": "django-simple-menu",
+  "versions": [
+    {
+      "commit": "d92583554032574a0ac14527bab5f693e573ceb5",
+      "tag": "",
+      "parsed_at": "2026-11-02T18:22:46.951317+00:00"
+    }
+  ]
+}
